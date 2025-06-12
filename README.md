@@ -31,7 +31,7 @@ This portfolio is a showcase of my projects, skills, certifications, and profess
 (Link coming soon...)
 
 ## 📫 Contact Me
-- **Email**: your_email@example.com
+- **Email**: pankaj955956@gmail.com
 - **LinkedIn**: [Pankaj Kumar LinkedIn](https://www.linkedin.com/in/yourprofile)
 - **GitHub**: [Pankaj's GitHub](https://github.com/PANKAJ955956)
 
